@@ -6,7 +6,7 @@
   "scripts": {
     "compile:sass": "node-sass -w scss/ -o dist/css/ --recursive"
   },
-  "author": "iDeveloper-Brandon",
+  "author": "iDeveloperBrandon",
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.14.1"
